@@ -79,3 +79,17 @@
 1529694588768	Marionette	INFO	Listening on port 37087
 1529694588869	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529695113798	geckodriver	INFO	geckodriver 0.21.0
+1529695113804	geckodriver	INFO	Listening on 127.0.0.1:36711
+1529695114807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZDwPIsonyW8Y"
+1529695118957	Marionette	INFO	Listening on port 37137
+1529695119026	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 424: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+1529695294665	geckodriver	INFO	geckodriver 0.21.0
+1529695294671	geckodriver	INFO	Listening on 127.0.0.1:44591
+1529695295674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.esZzBAh0Non6"
+1529695299679	Marionette	INFO	Listening on port 41273
+1529695299695	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
